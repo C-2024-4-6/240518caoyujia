@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AFF7A6-5583-421C-A317-29BEE40BD9DE}|Project15\\Project15.vcxproj|D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project15\\Project15\\text15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59AFF7A6-5583-421C-A317-29BEE40BD9DE}|Project15\\Project15.vcxproj|solutionrelative:Project15\\text15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text15.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project15\\Project15\\text15.cpp",
+              "RelativeDocumentMoniker": "Project15\\text15.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project15\\Project15\\text15.cpp",
+              "RelativeToolTip": "Project15\\text15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T15:33:15.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

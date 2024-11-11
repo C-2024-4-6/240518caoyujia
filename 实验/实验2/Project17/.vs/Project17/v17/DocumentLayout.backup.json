@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E5DF40-E391-4FFD-AD29-A484781176FA}|Project17\\Project17.vcxproj|D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project17\\Project17\\text17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44E5DF40-E391-4FFD-AD29-A484781176FA}|Project17\\Project17.vcxproj|solutionrelative:Project17\\text17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text17.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project17\\Project17\\text17.cpp",
+              "RelativeDocumentMoniker": "Project17\\text17.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project17\\Project17\\text17.cpp",
+              "RelativeToolTip": "Project17\\text17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T07:32:17.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

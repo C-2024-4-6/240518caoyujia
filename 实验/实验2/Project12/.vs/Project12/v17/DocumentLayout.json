@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF934D2B-5587-4F4E-93E8-AAC0CF666C01}|Project12\\Project12.vcxproj|D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project12\\Project12\\text12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF934D2B-5587-4F4E-93E8-AAC0CF666C01}|Project12\\Project12.vcxproj|solutionrelative:Project12\\text12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text12.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project12\\Project12\\text12.cpp",
+              "RelativeDocumentMoniker": "Project12\\text12.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\\u5B9E\u9A8C2\\Project12\\Project12\\text12.cpp",
+              "RelativeToolTip": "Project12\\text12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T12:32:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

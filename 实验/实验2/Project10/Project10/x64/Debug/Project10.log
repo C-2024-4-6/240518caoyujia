@@ -1,0 +1,4 @@
+﻿  text10.cpp
+D:\C++\实验2\Project10\Project10\text10.cpp(8,8): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\C++\实验2\Project10\Project10\text10.cpp(12,13): warning C4804: “<”: 在操作中使用类型“bool”不安全
+  Project10.vcxproj -> D:\C++\实验2\Project10\x64\Debug\Project10.exe
